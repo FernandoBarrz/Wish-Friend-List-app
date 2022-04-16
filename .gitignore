@@ -3,3 +3,5 @@ venv-wfl/
 ./venv-wfl
 
 wish_friend_list/venv-wfl
+
+wish_friend_list/wish_friend_list/settings.py
