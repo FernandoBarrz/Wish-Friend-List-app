@@ -1,10 +1,29 @@
 venve/
 venv-wfl/
 ./venv-wfl
+.env
+.venv
+ENV/
+
 
 wish_friend_list/venv-wfl
 
 ./wish_friend_list/wish_friend_list/settings.py
+/wish_friend_list/wish_friend_list/settings.py
+wish_friend_list/settings.py
+/**/wish_friend_list/settings.py
 
 *settings.py
 settings*
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+*/__pycache__
+db.sqlite3
+media
+*.bak
+settings.py
+.idea/**/settings.py
+
