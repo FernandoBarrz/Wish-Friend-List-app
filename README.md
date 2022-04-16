@@ -10,11 +10,11 @@
 * Connect to many people who can even meet and make friends because they have the same tastes.
 * It is expected that the application can make the exclusion of people to events much less
 
-Colaborators:
-Fernando Barrios - Tech Lead, Dev 
-Luis López (him/his) - Project Manager, Dev
-Ricardo Coeto (she/her) - Dev
-Ricardo Bulhosen - Dev
+### Colaborators:
+* Fernando Barrios - Tech Lead, Dev 
+* Luis López (him/his) - Project Manager, Dev
+* Ricardo Coeto (she/her) - Dev
+* Ricardo Bulhosen - Dev
 
 
 
