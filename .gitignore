@@ -8,13 +8,13 @@ ENV/
 
 wish_friend_list/venv-wfl
 
-./wish_friend_list/wish_friend_list/settings.py
-/wish_friend_list/wish_friend_list/settings.py
-wish_friend_list/settings.py
-/**/wish_friend_list/settings.py
+#----./wish_friend_list/wish_friend_list/settings.py
+#----/wish_friend_list/wish_friend_list/settings.py
+#----wish_friend_list/settings.py
+#----/**/wish_friend_list/settings.py
 
-*settings.py
-settings*
+#----*settings.py
+#----settings*
 
 *.log
 *.pot
@@ -24,6 +24,6 @@ __pycache__/
 db.sqlite3
 media
 *.bak
-settings.py
-.idea/**/settings.py
+#settings.py
+#.idea/**/settings.py
 

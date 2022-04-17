@@ -1,0 +1,19 @@
+{% extends 'main.html' %}
+{% block content %}
+<h1>Home Template</h1>
+
+<div>
+    <div>
+        {% for room in rooms %}
+            <div>
+                <h5> {{room.id}} -- <a href="{% url 'room' room.id %}">{{room.name}}</a></h5>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore veniam eaque, quo in molestiae harum nobis provident. Atque, dolore repellat! Itaque, saepe id. Dolore maiores, vero illum dignissimos inventore quam.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias repellat quo officiis explicabo beatae exercitationem assumenda facere debitis odit qui, perspiciatis possimus itaque unde placeat corrupti, hic dolores quia eius.</p>
+
+{% endblock %}
