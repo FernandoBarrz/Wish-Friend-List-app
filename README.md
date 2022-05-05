@@ -21,7 +21,17 @@ This is a python3 social network FullStack application powered by Django, React.
 - **Administrator** ALL the above plus cancell events and ban users,  send global alerts and promote / demote users.
 ---
 ## Setup
-Clone this repo to your desktop and run `pip3 install -r requirements.txt` to install its dependencies.
+
+* Clone this repo to your desktop and type:
+    ```bash
+        git clone https://github.com/FernandoBarrz/Wish-Friend-List-app.git
+        cd Wish-Friend-List-app/
+        
+    ```
+
+and run:
+
+ `pip3 install -r requirements.txt` to install its dependencies.
 
 Once the dependencies are installed, you can run `python3 manage.py runserver` to start the application. You will then be able to access it at localhost:8000
 ---
